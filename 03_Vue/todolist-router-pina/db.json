@@ -4,7 +4,7 @@
       "id": "1",
       "todo": "야구장",
       "desc": "프로야구 경기도 봐야합니다.",
-      "done": false
+      "done": true
     },
     {
       "id": "3",
@@ -16,13 +16,13 @@
       "id": "4",
       "todo": "ES6 공부",
       "desc": "ES6공부를 해야 합니다",
-      "done": false
+      "done": true
     },
     {
       "id": "8ec5",
       "todo": "test",
       "desc": "test\ntset_adj\ntest_adj_2",
-      "done": false
+      "done": true
     },
     {
       "id": "149a",
